@@ -1,5 +1,5 @@
 
-# Bank Simulation Kafka Real Time, Apache Spark Streaming Data Engineering Project
+# Data Analysis and Machine Learning Model Development with Apache PySpark
 
 ### Introduction
 
